@@ -7,7 +7,8 @@
   <li>Looking forward to Full Stack</li>
   <li>New to obsidian</li>
 <li>Obsidian graph view fan</li>
-  <img src="https://github.com/user-attachments/assets/aa53d203-249a-4727-988b-2117b0ece68a" weight="620px" height="620px"> 
-  <figcaption>My graph view (two weeks old)</figcaption>
+  <img src="https://github.com/user-attachments/assets/aa53d203-249a-4727-988b-2117b0ece68a" weight="320px" height="320px"> 
+  <br>
+  My graph view (two weeks old)
 
 </ul>
