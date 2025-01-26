@@ -1,5 +1,5 @@
 <h1>Hi there!</h1>
-  My name is Stefano and this is my github! <br>It's pretty dead.
+  My name is Stefano and this is my github! <br>It's pretty dead as you can see
 
 <ul>
   <li>Currently learning CSS and HTML</li>
