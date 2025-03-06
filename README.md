@@ -4,7 +4,7 @@
 - 🚀 **Aspiring Full-Stack Developer**  
 - 📝 Exploring **Obsidian** for better knowledge management  
 - 📖 Check out this **note-taking course**: [Knowledge Management for Offensive Security Professionals](https://github.com/808ale/Knowledge-Management-for-Offensive-Security-Professionals)  
-- 📂 Check out my projects: [My GitHub Repositories](https://github.com/stefanuti04?tab=repositories))  
+- 📂 Check out my projects: [My GitHub Repositories](https://github.com/stefanuti04?tab=repositories)
 
 ---
 
