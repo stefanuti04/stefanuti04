@@ -1,9 +1,7 @@
 <h1>Hi there!</h1>
-  My name is Stefano and this is my github! <br>It's pretty dead as you can see
+  My name is Stefano and this is my github! 
 
 <ul>
-  <li>Currently learning CSS and HTML</li>
-  <li>Starting coding journey in Codecademy</li>
   <li>Looking forward to Full Stack</li>
   <li>New to obsidian</li>
 <li>Obsidian graph view fan</li>
@@ -12,3 +10,8 @@
   My graph view (two weeks old)
 
 </ul>
+
+<!-- Lenguages -->
+<h3 align="center"> I am familiar with: </h3>
+
+<p align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://cdn-icons-png.flaticon.com/256/174/174854.png" height="40" weight="40" /> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="" height="40" weight="40"/> </a> </p>
