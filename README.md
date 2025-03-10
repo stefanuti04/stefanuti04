@@ -8,7 +8,7 @@
 
 ---
 
-## 💻 Technologies I Use  
+## Technologies I Use  
 <!-- Centering technology icons for a neat visual presentation -->
 <p align="center">
   <!-- HTML Icon with a link to its documentation -->
@@ -32,6 +32,6 @@
 
 ---
 
-## 🏆 GitHub Trophies  
+## GitHub Trophies  
 <!-- GitHub profile trophies section, generated dynamically based on my username -->
 ![Trophies](https://github-profile-trophy.vercel.app/?username=stefanuti04&theme=darkhub&no-frame=true&no-bg=true&column=-1)
