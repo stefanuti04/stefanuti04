@@ -25,7 +25,7 @@
   </a>
 
 <a href="https://git-scm.com/">
-<img src="https://github.com/user-attachments/assets/11f8943d-3500-4e2b-a853-59aeae52f48b" width="40" />
+<img src="https://github.com/user-attachments/assets/11f8943d-3500-4e2b-a853-59aeae52f48b" width="40" alt="Git"/>
 </a>
   
 </p>
