@@ -23,7 +23,7 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/640px-Unofficial_JavaScript_logo_2.svg.png" width="40" alt="JavaScript" />
   </a>
-
+<!-- Git Icon with link to docs -->
 <a href="https://git-scm.com/">
 <img src="https://github.com/user-attachments/assets/11f8943d-3500-4e2b-a853-59aeae52f48b" width="40" alt="Git"/>
 </a>
